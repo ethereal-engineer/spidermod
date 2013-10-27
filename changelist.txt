@@ -1,0 +1,51 @@
+Version 1.4.1 (alpha with patch)
+---------------------
+* Added a very basic info message when player first spawns
+* Fixed no-jump and wrong player speeds in certain opmodes
+* Web SWEP now cannot be picked up unless the player is deemed spider-enhanced OR spidermod is operating in SWEP mode
+* Improved error message visibility for those running dedicated servers
+* Some code cleanup and improved debugging routines
+
+Version 1.4 (alpha)
+-------------------
+* Moved codebase from gamemode to addon
+* Added OpModes
+* Added Fall Damage Modes
+* Added custom vgui selection screen
+* Added residual webstrands
+* Compressed WAV sounds into MP3 files
+* Added a custom SWEP icon for Spider Web
+* Fixed second webline firing failure
+
+Version 1.3.2 (alpha with patch)
+--------------------------------
+* Added Jumping from wall crawl
+* Added alternating left/right websling
+* Added motion blur when falling at a damaging speed
+* Fixed Strider Cannon destroys wcam entity
+
+Version 1.3.1 (alpha with patch)
+--------------------------------
+* Fixed C4 spin forever bug (thanks again PwnTra1n)
+* Added strafe controls to wall crawling
+
+Version 1.3 (alpha)
+-------------------
+* Added basic wallcrawling
+* Fixed ERROR shadow appearing beneath webstrand in high sunlight (thanks PwnTra1n)
+
+Version 1.2
+-------------
+* Added Custom View Models with true Spider-mation (left hand only for now)
+* Added PS2-borrowed Sound Effects
+* Changed web line to xbeam (white) to be more web-like
+* Thinned the web line a little
+* Other minor cleanups and enhancements
+
+Version 1.1
+-------------
+* Removed +spiderjump console command and the necessity to bind to it - jumps are now done using the regular jump key
+
+Version 1.0
+-------------
+* Initial Release

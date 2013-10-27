@@ -1,0 +1,12 @@
+"AddonInfo"
+{
+	"name"		"SpiderMod"
+	"version"	"1.4.1 alpha"
+  "up_date" "17-06-2009"
+	"author_name"	"ancientevil"
+	"author_email"	""
+	"author_url"	"facepunch.com"
+	
+	"info"		"Spiderific Addon!"
+	"override"		"0"
+}
